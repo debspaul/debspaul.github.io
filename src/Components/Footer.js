@@ -6,7 +6,7 @@ class Footer extends Component {
 		    <>
                 <footer className="page-footer font-small blue pt-4 bg-light">
 
-                    <div className="container-fluid text-center text-md-left">
+                    <div className="container text-center text-md-left">
 
                         <div className="row">
 

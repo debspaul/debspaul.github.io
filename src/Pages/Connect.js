@@ -4,17 +4,17 @@ import Header from '../Components/Header';
 import Footer from '../Components/Footer';
 
 
-class Home extends Component {
+class Connect extends Component {
     render() {
         return (
 		    <>
                 <Header />
                     <div className="container">
-                        <h1>Home</h1>
+                        <h1>Connect</h1>
                     </div>
                 <Footer />
             </>
         )
     }
 }
-export default Home;
+export default Connect;
